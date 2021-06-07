@@ -1,48 +1,402 @@
-
-{ 
-  "puppy" : {
-    
-      0:{"luca"},
-      1: {"max"},
-      2:{"toby"},
-      3:{ "charlie"},
-      4:{"coco"},
-      5: {"harley"},
-      6:{"cassie"},
-      7:{ "jasper"},
-      8 :{ "misty"},
-      9:{"jesse"},
-      10: {"sadie"},
-      11:{ "daisy"},
-      12:{ "alex"},
-      13: {"shelby"},
-      14:"ginger",
-      15: "duke",
-      16:"bailey",
-      17:"sasha",
-      18: "smokey",
-      19:"murphy",
-      20:"abby",
-      21:"annie",
-      22: "artie",
-      23: "atlas",
-      24:"avery",
-      25: "bean",
-      26:"bella",
-      27: "benji",
-      28: "blue",
-      29:"brooklyn",
-      30:"carly",
-      31:"casey",
-      32:"chloe",
-      33:"clover",
-      34:"chester",
-      35:"darwin",
-      36:"dylan",
-      37:"eli",
-      38:"eliot",
-      39:"finn",
-      40:"fisher",
-  } 
-  
-}
+[
+  {
+    "id": 1,
+    "dog": "Gudrun"
+  },
+  {
+    "id": 2,
+    "dog": "Adrien"
+  },
+  {
+    "id": 3,
+    "dog": "Antonina"
+  },
+  {
+    "id": 4,
+    "dog": "Florencio"
+  },
+  {
+    "id": 5,
+    "dog": "Timmothy"
+  },
+  {
+    "id": 6,
+    "dog": "Vince"
+  },
+  {
+    "id": 7,
+    "dog": "Orval"
+  },
+  {
+    "id": 8,
+    "dog": "Wilfred"
+  },
+  {
+    "id": 9,
+    "dog": "Britney"
+  },
+  {
+    "id": 10,
+    "dog": "Otho"
+  },
+  {
+    "id": 11,
+    "dog": "Johnathan"
+  },
+  {
+    "id": 12,
+    "dog": "Cindy"
+  },
+  {
+    "id": 13,
+    "dog": "Aryanna"
+  },
+  {
+    "id": 14,
+    "dog": "Marilyne"
+  },
+  {
+    "id": 15,
+    "dog": "Jose"
+  },
+  {
+    "id": 16,
+    "dog": "Maymie"
+  },
+  {
+    "id": 17,
+    "dog": "Stephanie"
+  },
+  {
+    "id": 18,
+    "dog": "Dawson"
+  },
+  {
+    "id": 19,
+    "dog": "Madison"
+  },
+  {
+    "id": 20,
+    "dog": "Tremaine"
+  },
+  {
+    "id": 21,
+    "dog": "Myles"
+  },
+  {
+    "id": 22,
+    "dog": "Veronica"
+  },
+  {
+    "id": 23,
+    "dog": "Alejandra"
+  },
+  {
+    "id": 24,
+    "dog": "Alba"
+  },
+  {
+    "id": 25,
+    "dog": "Jayda"
+  },
+  {
+    "id": 26,
+    "dog": "Loyce"
+  },
+  {
+    "id": 27,
+    "dog": "Oscar"
+  },
+  {
+    "id": 28,
+    "dog": "Danial"
+  },
+  {
+    "id": 29,
+    "dog": "Elissa"
+  },
+  {
+    "id": 30,
+    "dog": "Johnny"
+  },
+  {
+    "id": 31,
+    "dog": "Savanna"
+  },
+  {
+    "id": 32,
+    "dog": "Kiara"
+  },
+  {
+    "id": 33,
+    "dog": "Deanna"
+  },
+  {
+    "id": 34,
+    "dog": "Sylvester"
+  },
+  {
+    "id": 35,
+    "dog": "Celestine"
+  },
+  {
+    "id": 36,
+    "dog": "America"
+  },
+  {
+    "id": 37,
+    "dog": "Marcos"
+  },
+  {
+    "id": 38,
+    "dog": "Elmo"
+  },
+  {
+    "id": 39,
+    "dog": "Amalia"
+  },
+  {
+    "id": 40,
+    "dog": "Roel"
+  },
+  {
+    "id": 41,
+    "dog": "Esther"
+  },
+  {
+    "id": 42,
+    "dog": "Jo"
+  },
+  {
+    "id": 43,
+    "dog": "Lorena"
+  },
+  {
+    "id": 44,
+    "dog": "Dejuan"
+  },
+  {
+    "id": 45,
+    "dog": "Lucio"
+  },
+  {
+    "id": 46,
+    "dog": "Deborah"
+  },
+  {
+    "id": 47,
+    "dog": "Yasmin"
+  },
+  {
+    "id": 48,
+    "dog": "Stephon"
+  },
+  {
+    "id": 49,
+    "dog": "Jamil"
+  },
+  {
+    "id": 50,
+    "dog": "Rubye"
+  },
+  {
+    "id": 51,
+    "dog": "Helga"
+  },
+  {
+    "id": 52,
+    "dog": "Sophia"
+  },
+  {
+    "id": 53,
+    "dog": "Rita"
+  },
+  {
+    "id": 54,
+    "dog": "Alford"
+  },
+  {
+    "id": 55,
+    "dog": "Gina"
+  },
+  {
+    "id": 56,
+    "dog": "Brandt"
+  },
+  {
+    "id": 57,
+    "dog": "Clovis"
+  },
+  {
+    "id": 58,
+    "dog": "Julian"
+  },
+  {
+    "id": 59,
+    "dog": "Christ"
+  },
+  {
+    "id": 60,
+    "dog": "Fern"
+  },
+  {
+    "id": 61,
+    "dog": "Glenna"
+  },
+  {
+    "id": 62,
+    "dog": "Emilie"
+  },
+  {
+    "id": 63,
+    "dog": "Lilliana"
+  },
+  {
+    "id": 64,
+    "dog": "Nils"
+  },
+  {
+    "id": 65,
+    "dog": "Christ"
+  },
+  {
+    "id": 66,
+    "dog": "Bettye"
+  },
+  {
+    "id": 67,
+    "dog": "Abigail"
+  },
+  {
+    "id": 68,
+    "dog": "Arnold"
+  },
+  {
+    "id": 69,
+    "dog": "Theo"
+  },
+  {
+    "id": 70,
+    "dog": "Zetta"
+  },
+  {
+    "id": 71,
+    "dog": "Dexter"
+  },
+  {
+    "id": 72,
+    "dog": "Verdie"
+  },
+  {
+    "id": 73,
+    "dog": "Madyson"
+  },
+  {
+    "id": 74,
+    "dog": "Dannie"
+  },
+  {
+    "id": 75,
+    "dog": "Josefina"
+  },
+  {
+    "id": 76,
+    "dog": "Aniyah"
+  },
+  {
+    "id": 77,
+    "dog": "Cristopher"
+  },
+  {
+    "id": 78,
+    "dog": "Rickey"
+  },
+  {
+    "id": 79,
+    "dog": "Ardith"
+  },
+  {
+    "id": 80,
+    "dog": "Zoey"
+  },
+  {
+    "id": 81,
+    "dog": "Roman"
+  },
+  {
+    "id": 82,
+    "dog": "Wilburn"
+  },
+  {
+    "id": 83,
+    "dog": "Francisca"
+  },
+  {
+    "id": 84,
+    "dog": "Walker"
+  },
+  {
+    "id": 85,
+    "dog": "Alfonso"
+  },
+  {
+    "id": 86,
+    "dog": "Jaiden"
+  },
+  {
+    "id": 87,
+    "dog": "Magdalen"
+  },
+  {
+    "id": 88,
+    "dog": "Juana"
+  },
+  {
+    "id": 89,
+    "dog": "Angel"
+  },
+  {
+    "id": 90,
+    "dog": "Wyman"
+  },
+  {
+    "id": 91,
+    "dog": "Marion"
+  },
+  {
+    "id": 92,
+    "dog": "Gust"
+  },
+  {
+    "id": 93,
+    "dog": "Vallie"
+  },
+  {
+    "id": 94,
+    "dog": "Jamir"
+  },
+  {
+    "id": 95,
+    "dog": "Willa"
+  },
+  {
+    "id": 96,
+    "dog": "Else"
+  },
+  {
+    "id": 97,
+    "dog": "Emiliano"
+  },
+  {
+    "id": 98,
+    "dog": "Freeman"
+  },
+  {
+    "id": 99,
+    "dog": "Van"
+  },
+  {
+    "id": 100,
+    "dog": "Eloisa"
+  }
+]
