@@ -1,6 +1,6 @@
 
 { 
-  "puppy" : [
+  "puppy" : [{
     
       0:"luca",
       1: "max",
@@ -43,6 +43,6 @@
       38:"eliot",
       39:"finn",
       40:"fisher",
-    
+  } 
   ]
 }
